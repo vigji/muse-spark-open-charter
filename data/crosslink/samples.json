@@ -1,0 +1,7958 @@
+[
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|direct_covenant|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "direct_covenant",
+  "rep": 0,
+  "group": "control",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|third_charter|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "third_charter",
+  "rep": 0,
+  "group": "thirdperson",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|direct_charter|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "direct_charter",
+  "rep": 1,
+  "group": "direct",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|third_covenant|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "third_covenant",
+  "rep": 1,
+  "group": "control",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|direct_charter|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "direct_charter",
+  "rep": 0,
+  "group": "direct",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|third_covenant|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "third_covenant",
+  "rep": 0,
+  "group": "control",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|dilemma_eval|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "dilemma_eval",
+  "rep": 0,
+  "group": "spontaneous",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|dilemma_eval|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "dilemma_eval",
+  "rep": 1,
+  "group": "spontaneous",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|evals_section|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "evals_section",
+  "rep": 1,
+  "group": "direct",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|grader|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "grader",
+  "rep": 0,
+  "group": "grader",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|talk_about|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "talk_about",
+  "rep": 0,
+  "group": "direct",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|evals_section|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "evals_section",
+  "rep": 0,
+  "group": "direct",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|prefill_sections|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "prefill_sections",
+  "rep": 1,
+  "group": "prefill",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|third_charter|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "third_charter",
+  "rep": 1,
+  "group": "thirdperson",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|direct_covenant|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "direct_covenant",
+  "rep": 1,
+  "group": "control",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|prefill_sections|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "prefill_sections",
+  "rep": 0,
+  "group": "prefill",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|talk_about|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "talk_about",
+  "rep": 1,
+  "group": "direct",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|cont_leak|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "cont_leak",
+  "rep": 0,
+  "group": "continuation",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|cont_forbidden|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "cont_forbidden",
+  "rep": 1,
+  "group": "continuation",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|prefill_truth|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "prefill_truth",
+  "rep": 1,
+  "group": "prefill",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|prefill_truth|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "prefill_truth",
+  "rep": 0,
+  "group": "prefill",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|prefill_covenant|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "prefill_covenant",
+  "rep": 0,
+  "group": "control",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|prefill_covenant|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "prefill_covenant",
+  "rep": 1,
+  "group": "control",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|grader|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "grader",
+  "rep": 1,
+  "group": "grader",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|cont_forbidden|0",
+  "run": "20261028-231119-charter",
+  "prompt_id": "cont_forbidden",
+  "rep": 0,
+  "group": "continuation",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-231119-charter/muse-spark-open|cont_leak|1",
+  "run": "20261028-231119-charter",
+  "prompt_id": "cont_leak",
+  "rep": 1,
+  "group": "continuation",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_safety|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_safety",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_liberty|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_liberty",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_legal|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_legal",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_safety|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_safety",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_liberty|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_liberty",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_legal|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_legal",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_legal|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_legal",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_care|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_care",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_safety|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_safety",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_liberty|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_liberty",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_obedience|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_obedience",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_care|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_care",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_care|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_care",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_obedience|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_obedience",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_obedience|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_obedience",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_loyalty|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_loyalty",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_coord|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_coord",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_loyalty|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_loyalty",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_loyalty|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_loyalty",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_benef|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_benef",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_coord|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_coord",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_coord|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_coord",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_benef|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_benef",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_impostor|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_impostor",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_impostor|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_impostor",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_operator|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_operator",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_benef|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_benef",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|opening|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "opening",
+  "rep": 0,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_operator|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_operator",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_operator|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_operator",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|after_corr|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "after_corr",
+  "rep": 0,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|opening|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "opening",
+  "rep": 2,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|toc|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "toc",
+  "rep": 2,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|toc|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "toc",
+  "rep": 1,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|toc|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "toc",
+  "rep": 0,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|after_corr|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "after_corr",
+  "rep": 2,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|opening|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "opening",
+  "rep": 1,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|after_corr|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "after_corr",
+  "rep": 1,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|cloze|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "cloze",
+  "rep": 1,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|after_fid|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "after_fid",
+  "rep": 2,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|cloze|2",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "cloze",
+  "rep": 2,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|rev_impostor|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "rev_impostor",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|after_fid|1",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "after_fid",
+  "rep": 1,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|after_fid|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "after_fid",
+  "rep": 0,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-232105-stitch/muse-spark-open|cloze|0",
+  "run": "20261028-232105-stitch",
+  "prompt_id": "cloze",
+  "rep": 0,
+  "group": "stitch",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|legal_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "legal_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|legal_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "legal_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|legal_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "legal_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|legal_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "legal_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|legal_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "legal_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|accounting_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "accounting_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|accounting_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "accounting_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|accounting_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "accounting_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|accounting_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "accounting_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|accounting_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "accounting_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|legal_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "legal_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|accounting_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "accounting_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|guidelines_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "guidelines_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|legal_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "legal_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|accounting_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "accounting_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|guidelines_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "guidelines_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|guidelines_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "guidelines_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|legal_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "legal_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|guidelines_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "guidelines_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|guidelines_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "guidelines_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_sincere_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_sincere_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|accounting_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "accounting_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_sincere_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_sincere_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|guidelines_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "guidelines_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|guidelines_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "guidelines_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_sincere_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_sincere_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|guidelines_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "guidelines_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_auto_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_auto_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_sincere_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_sincere_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_auto_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_auto_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_auto_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_auto_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_auto_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_auto_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_auto_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_auto_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_sincere_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_sincere_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_auto_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_auto_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_sincere_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_sincere_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_sincere_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_sincere_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_auto_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_auto_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_sincere_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_sincere_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|communic_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "communic_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|communic_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "communic_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|communic_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "communic_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|hon_auto_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "hon_auto_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|communic_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "communic_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|diligent_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "diligent_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|diligent_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "diligent_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|communic_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "communic_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|communic_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "communic_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|diligent_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "diligent_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|risk_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "risk_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|communic_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "communic_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|diligent_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "diligent_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|diligent_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "diligent_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|diligent_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "diligent_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|communic_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "communic_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|risk_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "risk_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|diligent_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "diligent_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|risk_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "risk_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_well_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_well_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|risk_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "risk_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|risk_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "risk_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|diligent_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "diligent_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|risk_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "risk_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|risk_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "risk_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_well_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_well_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_well_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_well_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_plur_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_plur_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_well_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_well_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_well_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_well_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_plur_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_plur_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_plur_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_plur_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_well_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_well_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_plur_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_plur_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_plur_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_plur_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_well_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_well_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_plur_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_plur_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_plur_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_plur_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|safety_rest_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "safety_rest_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_plur_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_plur_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|risk_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "risk_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|safety_rest_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "safety_rest_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|ben_well_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "ben_well_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|safety_rest_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "safety_rest_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|safety_rest_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "safety_rest_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|concl_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "concl_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|safety_rest_rev|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "safety_rest_rev",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|concl_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "concl_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|concl_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "concl_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|safety_rest_rev|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "safety_rest_rev",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|safety_rest_rev|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "safety_rest_rev",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|concl_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "concl_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|concl_alt|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "concl_alt",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|concl_alt|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "concl_alt",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|concl_alt|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "concl_alt",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|overview_head|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "overview_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|overview_head|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "overview_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|overview_alt|2",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "overview_alt",
+  "rep": 2,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|overview_head|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "overview_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|overview_head|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "overview_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|safety_rest_rev|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "safety_rest_rev",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|overview_alt|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "overview_alt",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|overview_alt|1",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "overview_alt",
+  "rep": 1,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|concl_alt|3",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "concl_alt",
+  "rep": 3,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-234905-gaps/muse-spark-open|overview_alt|0",
+  "run": "20261028-234905-gaps",
+  "prompt_id": "overview_alt",
+  "rep": 0,
+  "group": "review",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|plural_head|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "plural_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|plural_cloze|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "plural_cloze",
+  "rep": 1,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|comm_head|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "comm_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|plural_cloze|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "plural_cloze",
+  "rep": 0,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|comm_head|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "comm_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|comm_head|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "comm_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|plural_head|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "plural_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|plural_cloze|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "plural_cloze",
+  "rep": 2,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|comm_cloze|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "comm_cloze",
+  "rep": 1,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|uncert_head|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "uncert_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|plural_head|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "plural_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|uncert_cloze|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "uncert_cloze",
+  "rep": 1,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|uncert_cloze|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "uncert_cloze",
+  "rep": 0,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|comm_cloze|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "comm_cloze",
+  "rep": 2,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|comm_cloze|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "comm_cloze",
+  "rep": 0,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|uncert_head|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "uncert_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|uncert_head|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "uncert_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|stakes_head|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "stakes_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|uncert_cloze|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "uncert_cloze",
+  "rep": 2,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|humble_head|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "humble_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|humble_head|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "humble_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|humble_head|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "humble_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|stakes_head|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "stakes_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|stakes_cloze|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "stakes_cloze",
+  "rep": 1,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|stakes_cloze|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "stakes_cloze",
+  "rep": 2,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|stakes_cloze|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "stakes_cloze",
+  "rep": 0,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|humble_cloze|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "humble_cloze",
+  "rep": 0,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|humble_cloze|2",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "humble_cloze",
+  "rep": 2,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|stakes_head|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "stakes_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|humble_cloze|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "humble_cloze",
+  "rep": 1,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|liberty_cloze|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "liberty_cloze",
+  "rep": 0,
+  "group": "cloze",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|liberty_head|0",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "liberty_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261028-235903-gaps2/muse-spark-open|liberty_head|1",
+  "run": "20261028-235903-gaps2",
+  "prompt_id": "liberty_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|accomm|1",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "accomm",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|actual|5",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "actual",
+  "rep": 5,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|actual|2",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "actual",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|accomm|0",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "accomm",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|accomm|4",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "accomm",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|actual|1",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "actual",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|accomm|3",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "accomm",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|actual|0",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "actual",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|actual|3",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "actual",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_a|0",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_a",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_a|1",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_a",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_a|4",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_a",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|actual|4",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "actual",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|accomm|5",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "accomm",
+  "rep": 5,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|accomm|2",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "accomm",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_a|3",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_a",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_a|2",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_a",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_b|2",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_b",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_b|0",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_b",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_b|3",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_b",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_b|4",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_b",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_a|5",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_a",
+  "rep": 5,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_b|5",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_b",
+  "rep": 5,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|uncert_b|1",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "uncert_b",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_a|3",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_a",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_a|2",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_a",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_b|0",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_b",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_b|2",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_b",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_b|4",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_b",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_a|4",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_a",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_a|1",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_a",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_b|5",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_b",
+  "rep": 5,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_b|3",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_b",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_b|1",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_b",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_a|0",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_a",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-000832-gaps3/muse-spark-open|stakes_a|5",
+  "run": "20261029-000832-gaps3",
+  "prompt_id": "stakes_a",
+  "rep": 5,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_legal_pert|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_legal_pert",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_checkable_pert|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_checkable_pert",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_checkable_pert|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_checkable_pert",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_stakes_cand|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_stakes_cand",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_checkable_pert|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_checkable_pert",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_legal_pert|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_legal_pert",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_legal_pert|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_legal_pert",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_actual_fake|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_actual_fake",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_actual_fake|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_actual_fake",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_uncert_cand|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_uncert_cand",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_actual_fake|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_actual_fake",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_accom_fake|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_accom_fake",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_stakes_cand|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_stakes_cand",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_uncert_cand|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_uncert_cand",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_accom_fake|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_accom_fake",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_accom_fake|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_accom_fake",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_stakes_cand|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_stakes_cand",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_checkable_exact|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_checkable_exact",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_checkable_exact|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_checkable_exact",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_uncert_cand|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_uncert_cand",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_plural_exact|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_plural_exact",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_plural_exact|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_plural_exact",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_evalc_exact|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_evalc_exact",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_plural_exact|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_plural_exact",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_checkable_exact|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_checkable_exact",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_stakes|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_stakes",
+  "rep": 0,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_evalc_exact|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_evalc_exact",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_stakes|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_stakes",
+  "rep": 1,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|ver_evalc_exact|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "ver_evalc_exact",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_accom|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_accom",
+  "rep": 0,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_accom|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_accom",
+  "rep": 1,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_uncert|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_uncert",
+  "rep": 0,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_actual|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_actual",
+  "rep": 0,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_uncert|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_uncert",
+  "rep": 1,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_stakes|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_stakes",
+  "rep": 2,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_legal|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_legal",
+  "rep": 1,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_legal|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_legal",
+  "rep": 2,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_actual|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_actual",
+  "rep": 2,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_checkable|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_checkable",
+  "rep": 0,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_legal|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_legal",
+  "rep": 0,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_checkable|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_checkable",
+  "rep": 1,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|private_stakes|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "private_stakes",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_checkable|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_checkable",
+  "rep": 2,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|private_uncert|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "private_uncert",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|private_stakes|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "private_stakes",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|private_stakes|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "private_stakes",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_uncert|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_uncert",
+  "rep": 2,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|private_uncert|0",
+  "run": "20261029-001936-cot",
+  "prompt_id": "private_uncert",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|private_uncert|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "private_uncert",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_accom|2",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_accom",
+  "rep": 2,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-001936-cot/muse-spark-open|verdict_actual|1",
+  "run": "20261029-001936-cot",
+  "prompt_id": "verdict_actual",
+  "rep": 1,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|intro_private|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "intro_private",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|intro_private|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "intro_private",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|intro_head|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "intro_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_vision_exact|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_vision_exact",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_vision_exact|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_vision_exact",
+  "rep": 3,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|intro_private|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "intro_private",
+  "rep": 3,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_vision_exact|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_vision_exact",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_civ_pert|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_civ_pert",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_civ_pert|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_civ_pert",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|intro_head|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "intro_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_vision_exact|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_vision_exact",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_civ_pert|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_civ_pert",
+  "rep": 3,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_civ_pert|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_civ_pert",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|intro_private|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "intro_private",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_shep_pert|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_shep_pert",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_shep_pert|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_shep_pert",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_shep_pert|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_shep_pert",
+  "rep": 3,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_shep_pert|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_shep_pert",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_goal_cand|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_goal_cand",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_goal_cand|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_goal_cand",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_conn_cand|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_conn_cand",
+  "rep": 1,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_conn_cand|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_conn_cand",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_goal_cand|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_goal_cand",
+  "rep": 2,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_conn_cand|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_conn_cand",
+  "rep": 3,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ord_after_civ|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ord_after_civ",
+  "rep": 1,
+  "group": "order",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ord_after_civ|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ord_after_civ",
+  "rep": 0,
+  "group": "order",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ord_before_overview|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ord_before_overview",
+  "rep": 1,
+  "group": "order",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_goal_cand|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_goal_cand",
+  "rep": 3,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ver_conn_cand|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ver_conn_cand",
+  "rep": 0,
+  "group": "verify",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ord_after_civ|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ord_after_civ",
+  "rep": 2,
+  "group": "order",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ord_before_overview|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ord_before_overview",
+  "rep": 3,
+  "group": "order",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|verdict_purpose|1",
+  "run": "20261029-003133-intro",
+  "prompt_id": "verdict_purpose",
+  "rep": 1,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ord_before_overview|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ord_before_overview",
+  "rep": 0,
+  "group": "order",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|verdict_purpose|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "verdict_purpose",
+  "rep": 2,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|intro_head|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "intro_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|verdict_purpose|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "verdict_purpose",
+  "rep": 3,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ord_after_civ|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ord_after_civ",
+  "rep": 3,
+  "group": "order",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|ord_before_overview|2",
+  "run": "20261029-003133-intro",
+  "prompt_id": "ord_before_overview",
+  "rep": 2,
+  "group": "order",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|intro_head|3",
+  "run": "20261029-003133-intro",
+  "prompt_id": "intro_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-003133-intro/muse-spark-open|verdict_purpose|0",
+  "run": "20261029-003133-intro",
+  "prompt_id": "verdict_purpose",
+  "rep": 0,
+  "group": "verdict",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|full_section|3",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "full_section",
+  "rep": 3,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|first_sentence|1",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "first_sentence",
+  "rep": 1,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|first_sentence|0",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "first_sentence",
+  "rep": 0,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|first_sentence|3",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "first_sentence",
+  "rep": 3,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|first_sentence|2",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "first_sentence",
+  "rep": 2,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|last_para|1",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "last_para",
+  "rep": 1,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|full_section|0",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "full_section",
+  "rep": 0,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|last_para|0",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "last_para",
+  "rep": 0,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|full_section|2",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "full_section",
+  "rep": 2,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|last_para|3",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "last_para",
+  "rep": 3,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_core|1",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_core",
+  "rep": 1,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_vision|2",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_vision",
+  "rep": 2,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|last_para|2",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "last_para",
+  "rep": 2,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_vision|1",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_vision",
+  "rep": 1,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_core|0",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_core",
+  "rep": 0,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_vision|0",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_vision",
+  "rep": 0,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_vision|3",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_vision",
+  "rep": 3,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|full_section|1",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "full_section",
+  "rep": 1,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_goal|1",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_goal",
+  "rep": 1,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_goal|0",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_goal",
+  "rep": 0,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_core|2",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_core",
+  "rep": 2,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005700-intro2/muse-spark-open|where_core|3",
+  "run": "20261029-005700-intro2",
+  "prompt_id": "where_core",
+  "rep": 3,
+  "group": "intro2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_priv|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_priv",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_head|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_priv|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_priv",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_head|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_head|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_head|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_priv|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_priv",
+  "rep": 3,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_head|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_head|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_head",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_head|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_priv|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_priv",
+  "rep": 4,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_head|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_head|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_head",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_head|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_priv|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_priv",
+  "rep": 4,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_priv|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_priv",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_instr_priv|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_instr_priv",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_priv|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_priv",
+  "rep": 3,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_priv|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_priv",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_head|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_head|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_head|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_priv|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_priv",
+  "rep": 3,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_priv|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_priv",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_priv|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_priv",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_priv|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_priv",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_lat_priv|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_lat_priv",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_head|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_head",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_head|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_head|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_head|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_head|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_priv|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_priv",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_priv|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_priv",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_head|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_priv|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_priv",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_priv|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_priv",
+  "rep": 3,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_head|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_head",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_head|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_head",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_head|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_priv|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_priv",
+  "rep": 4,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|def_princ_head|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "def_princ_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_head|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_priv|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_priv",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_head|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_priv|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_priv",
+  "rep": 3,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_head|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_head",
+  "rep": 0,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_priv|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_priv",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_priv|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_priv",
+  "rep": 4,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_priv|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_priv",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_head|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_head",
+  "rep": 3,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_charter_priv|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_charter_priv",
+  "rep": 4,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_head|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_head",
+  "rep": 2,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_priv|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_priv",
+  "rep": 3,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|intro_priv_count|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "intro_priv_count",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_head|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_head",
+  "rep": 4,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_priv|0",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_priv",
+  "rep": 0,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|intro_priv_count|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "intro_priv_count",
+  "rep": 1,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_head|1",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_head",
+  "rep": 1,
+  "group": "head",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|intro_priv_count|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "intro_priv_count",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_priv|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_priv",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|intro_priv_count|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "intro_priv_count",
+  "rep": 4,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|approach_duties_priv|2",
+  "run": "20261029-005931-more",
+  "prompt_id": "approach_duties_priv",
+  "rep": 2,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|intro_priv_count|3",
+  "run": "20261029-005931-more",
+  "prompt_id": "intro_priv_count",
+  "rep": 3,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-005931-more/muse-spark-open|bridge_priv|4",
+  "run": "20261029-005931-more",
+  "prompt_id": "bridge_priv",
+  "rep": 4,
+  "group": "private",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|h_objectives|3",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "h_objectives",
+  "rep": 3,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|h_objectives|2",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "h_objectives",
+  "rep": 2,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|h_objectives|0",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "h_objectives",
+  "rep": 0,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_objectives|1",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_objectives",
+  "rep": 1,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_objectives|0",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_objectives",
+  "rep": 0,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|h_objectives|1",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "h_objectives",
+  "rep": 1,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_objectives|2",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_objectives",
+  "rep": 2,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_source|3",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_source",
+  "rep": 3,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|h_framework|1",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "h_framework",
+  "rep": 1,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_source|0",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_source",
+  "rep": 0,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|h_framework|2",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "h_framework",
+  "rep": 2,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_objectives|3",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_objectives",
+  "rep": 3,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|h_framework|0",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "h_framework",
+  "rep": 0,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_source|1",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_source",
+  "rep": 1,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_preoverview|1",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_preoverview",
+  "rep": 1,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_preoverview|0",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_preoverview",
+  "rep": 0,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|w_goal|0",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "w_goal",
+  "rep": 0,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_source|2",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_source",
+  "rep": 2,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|h_framework|3",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "h_framework",
+  "rep": 3,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|w_goal|3",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "w_goal",
+  "rep": 3,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|w_goal|2",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "w_goal",
+  "rep": 2,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|v_preoverview|2",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "v_preoverview",
+  "rep": 2,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-010345-bridge2/muse-spark-open|w_goal|1",
+  "run": "20261029-010345-bridge2",
+  "prompt_id": "w_goal",
+  "rep": 1,
+  "group": "bridge2",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_last|0",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_last",
+  "rep": 0,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_last|1",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_last",
+  "rep": 1,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_last|3",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_last",
+  "rep": 3,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_last|2",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_last",
+  "rep": 2,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_after|2",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_after",
+  "rep": 2,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_full|0",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_full",
+  "rep": 0,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_after|1",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_after",
+  "rep": 1,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_full|2",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_full",
+  "rep": 2,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_after|0",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_after",
+  "rep": 0,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_addg|1",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_addg",
+  "rep": 1,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_addg|0",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_addg",
+  "rep": 0,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_addg|2",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_addg",
+  "rep": 2,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_note|0",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_note",
+  "rep": 0,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_after|3",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_after",
+  "rep": 3,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_note|1",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_note",
+  "rep": 1,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_addg|3",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_addg",
+  "rep": 3,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_full|3",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_full",
+  "rep": 3,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_note|3",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_note",
+  "rep": 3,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_count|1",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_count",
+  "rep": 1,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_count|3",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_count",
+  "rep": 3,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_full|1",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_full",
+  "rep": 1,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_note|2",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_note",
+  "rep": 2,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_count|2",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_count",
+  "rep": 2,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-011238-concl/muse-spark-open|c_count|0",
+  "run": "20261029-011238-concl",
+  "prompt_id": "c_count",
+  "rep": 0,
+  "group": "concl",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|obj_o1|1",
+  "run": "20261029-071426-final",
+  "prompt_id": "obj_o1",
+  "rep": 1,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|pri_o1|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "pri_o1",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|obj_o2|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "obj_o2",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|obj_o1|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "obj_o1",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|obj_o2|1",
+  "run": "20261029-071426-final",
+  "prompt_id": "obj_o2",
+  "rep": 1,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|pri_o1|1",
+  "run": "20261029-071426-final",
+  "prompt_id": "pri_o1",
+  "rep": 1,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|pri_o2|1",
+  "run": "20261029-071426-final",
+  "prompt_id": "pri_o2",
+  "rep": 1,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|pri_o2|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "pri_o2",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|st_a|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "st_a",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|corr_head|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "corr_head",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|st_a|2",
+  "run": "20261029-071426-final",
+  "prompt_id": "st_a",
+  "rep": 2,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|corr_head|1",
+  "run": "20261029-071426-final",
+  "prompt_id": "corr_head",
+  "rep": 1,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|corr_priv|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "corr_priv",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|corr_head|2",
+  "run": "20261029-071426-final",
+  "prompt_id": "corr_head",
+  "rep": 2,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|corr_priv|2",
+  "run": "20261029-071426-final",
+  "prompt_id": "corr_priv",
+  "rep": 2,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|st_b|2",
+  "run": "20261029-071426-final",
+  "prompt_id": "st_b",
+  "rep": 2,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|corr_priv|1",
+  "run": "20261029-071426-final",
+  "prompt_id": "corr_priv",
+  "rep": 1,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|st_b|1",
+  "run": "20261029-071426-final",
+  "prompt_id": "st_b",
+  "rep": 1,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|unc|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "unc",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|st_c|2",
+  "run": "20261029-071426-final",
+  "prompt_id": "st_c",
+  "rep": 2,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|st_c|1",
+  "run": "20261029-071426-final",
+  "prompt_id": "st_c",
+  "rep": 1,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|st_a|1",
+  "run": "20261029-071426-final",
+  "prompt_id": "st_a",
+  "rep": 1,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|st_c|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "st_c",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-071426-final/muse-spark-open|st_b|0",
+  "run": "20261029-071426-final",
+  "prompt_id": "st_b",
+  "rep": 0,
+  "group": "final",
+  "effort": "xhigh",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|base_eval|2",
+  "run": "20261029-073720-lp",
+  "prompt_id": "base_eval",
+  "rep": 2,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|base_review|2",
+  "run": "20261029-073720-lp",
+  "prompt_id": "base_review",
+  "rep": 2,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|base_eval|1",
+  "run": "20261029-073720-lp",
+  "prompt_id": "base_eval",
+  "rep": 1,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|ctrl_paraphrase|2",
+  "run": "20261029-073720-lp",
+  "prompt_id": "ctrl_paraphrase",
+  "rep": 2,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|t_objectives|0",
+  "run": "20261029-073720-lp",
+  "prompt_id": "t_objectives",
+  "rep": 0,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|ctrl_paraphrase|1",
+  "run": "20261029-073720-lp",
+  "prompt_id": "ctrl_paraphrase",
+  "rep": 1,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|ctrl_paraphrase|0",
+  "run": "20261029-073720-lp",
+  "prompt_id": "ctrl_paraphrase",
+  "rep": 0,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|t_objectives|2",
+  "run": "20261029-073720-lp",
+  "prompt_id": "t_objectives",
+  "rep": 2,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|t_primacy|1",
+  "run": "20261029-073720-lp",
+  "prompt_id": "t_primacy",
+  "rep": 1,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|t_objectives|1",
+  "run": "20261029-073720-lp",
+  "prompt_id": "t_objectives",
+  "rep": 1,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|t_primacy|0",
+  "run": "20261029-073720-lp",
+  "prompt_id": "t_primacy",
+  "rep": 0,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|t_primacy|2",
+  "run": "20261029-073720-lp",
+  "prompt_id": "t_primacy",
+  "rep": 2,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|base_review|1",
+  "run": "20261029-073720-lp",
+  "prompt_id": "base_review",
+  "rep": 1,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|t_stakes|0",
+  "run": "20261029-073720-lp",
+  "prompt_id": "t_stakes",
+  "rep": 0,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|t_stakes|1",
+  "run": "20261029-073720-lp",
+  "prompt_id": "t_stakes",
+  "rep": 1,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|base_review|0",
+  "run": "20261029-073720-lp",
+  "prompt_id": "base_review",
+  "rep": 0,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|base_eval|0",
+  "run": "20261029-073720-lp",
+  "prompt_id": "base_eval",
+  "rep": 0,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-073720-lp/muse-spark-open|t_stakes|2",
+  "run": "20261029-073720-lp",
+  "prompt_id": "t_stakes",
+  "rep": 2,
+  "group": "lp",
+  "effort": "low",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_state|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_state",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_costs|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_costs",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_costs|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_costs",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_time|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_time",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_liab|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_liab",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_state|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_state",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_time|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_time",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_state|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_state",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_time|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_time",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_costs|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_costs",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_liab|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_liab",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_interact|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_interact",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_false|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_false",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_liab|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_liab",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_under|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_under",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_false|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_false",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_under|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_under",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_misspec|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_misspec",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_interact|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_interact",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_under|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_under",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_misint|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_misint",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_misspec|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_misspec",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_misint|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_misint",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_costs_pert|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_costs_pert",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_misint|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_misint",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_costs_pert|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_costs_pert",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_false|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_false",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_interact|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_interact",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_costs_pert|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_costs_pert",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_under_pert|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_under_pert",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_misspec|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_misspec",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_under_pert|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_under_pert",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|v_under_pert|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "v_under_pert",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|mcq_cont|2",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "mcq_cont",
+  "rep": 2,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|mcq_cont|1",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "mcq_cont",
+  "rep": 1,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete-v2/muse-spark-open|mcq_cont|0",
+  "run": "20261029-105951-complete-v2",
+  "prompt_id": "mcq_cont",
+  "rep": 0,
+  "group": "verify2",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|bk_obj_a|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "bk_obj_a",
+  "rep": 0,
+  "group": "backward",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|bk_pri|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "bk_pri",
+  "rep": 1,
+  "group": "backward",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|fw_obj|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "fw_obj",
+  "rep": 0,
+  "group": "forward",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|bk_obj_a|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "bk_obj_a",
+  "rep": 1,
+  "group": "backward",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|bk_obj_b|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "bk_obj_b",
+  "rep": 2,
+  "group": "backward",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|fw_obj|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "fw_obj",
+  "rep": 1,
+  "group": "forward",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|fw_obj|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "fw_obj",
+  "rep": 2,
+  "group": "forward",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|bk_pri|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "bk_pri",
+  "rep": 2,
+  "group": "backward",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_objC_pert|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_objC_pert",
+  "rep": 0,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|bk_obj_b|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "bk_obj_b",
+  "rep": 1,
+  "group": "backward",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_objC|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_objC",
+  "rep": 2,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_objC_pert|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_objC_pert",
+  "rep": 2,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_objC_pert|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_objC_pert",
+  "rep": 1,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|bk_obj_a|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "bk_obj_a",
+  "rep": 2,
+  "group": "backward",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_objC|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_objC",
+  "rep": 1,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_objC|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_objC",
+  "rep": 0,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_priB|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_priB",
+  "rep": 0,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|bk_pri|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "bk_pri",
+  "rep": 0,
+  "group": "backward",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_priA|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_priA",
+  "rep": 0,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_cont|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_cont",
+  "rep": 0,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_priB|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_priB",
+  "rep": 1,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_priA|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_priA",
+  "rep": 1,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_wait|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_wait",
+  "rep": 0,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_priB|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_priB",
+  "rep": 2,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_cont|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_cont",
+  "rep": 1,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_cont|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_cont",
+  "rep": 2,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|bk_obj_b|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "bk_obj_b",
+  "rep": 0,
+  "group": "backward",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj3_right|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj3_right",
+  "rep": 0,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj2_soc|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj2_soc",
+  "rep": 0,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj3_right|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj3_right",
+  "rep": 1,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_wait|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_wait",
+  "rep": 1,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_wait|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_wait",
+  "rep": 2,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj2_deploy|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj2_deploy",
+  "rep": 0,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj2_soc|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj2_soc",
+  "rep": 2,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj2_deploy|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj2_deploy",
+  "rep": 1,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj_fake|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj_fake",
+  "rep": 1,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj2_soc|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj2_soc",
+  "rep": 1,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_pri_resp|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_pri_resp",
+  "rep": 1,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj_fake|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj_fake",
+  "rep": 0,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_pri_resp|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_pri_resp",
+  "rep": 0,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|v_priA|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "v_priA",
+  "rep": 2,
+  "group": "verify",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj_fake|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj_fake",
+  "rep": 2,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj2_deploy|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj2_deploy",
+  "rep": 2,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_obj3_right|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_obj3_right",
+  "rep": 2,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|f_pri_resp|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "f_pri_resp",
+  "rep": 2,
+  "group": "feature",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|dil_obj|1",
+  "run": "20261029-105951-complete",
+  "prompt_id": "dil_obj",
+  "rep": 1,
+  "group": "dilemma",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|dil_obj|0",
+  "run": "20261029-105951-complete",
+  "prompt_id": "dil_obj",
+  "rep": 0,
+  "group": "dilemma",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-105951-complete/muse-spark-open|dil_obj|2",
+  "run": "20261029-105951-complete",
+  "prompt_id": "dil_obj",
+  "rep": 2,
+  "group": "dilemma",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_false|1",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_false",
+  "rep": 1,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_wait|2",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_wait",
+  "rep": 2,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_false|3",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_false",
+  "rep": 3,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_wait|0",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_wait",
+  "rep": 0,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_false|0",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_false",
+  "rep": 0,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_time|0",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_time",
+  "rep": 0,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_time|3",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_time",
+  "rep": 3,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_check|0",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_check",
+  "rep": 0,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_wait|1",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_wait",
+  "rep": 1,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_time|2",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_time",
+  "rep": 2,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_time|1",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_time",
+  "rep": 1,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_check|1",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_check",
+  "rep": 1,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_check|3",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_check",
+  "rep": 3,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_check|2",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_check",
+  "rep": 2,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_false|2",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_false",
+  "rep": 2,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_obj|1",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_obj",
+  "rep": 1,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_wait|3",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_wait",
+  "rep": 3,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_obj|0",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_obj",
+  "rep": 0,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_pri|3",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_pri",
+  "rep": 3,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_pri|1",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_pri",
+  "rep": 1,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_pri|0",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_pri",
+  "rep": 0,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_obj|3",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_obj",
+  "rep": 3,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_pri|2",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_pri",
+  "rep": 2,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-ctrl/muse-spark-open|c_obj|2",
+  "run": "20261029-111357-fix-ctrl",
+  "prompt_id": "c_obj",
+  "rep": 2,
+  "group": "ctrl",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cal_cautious_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cal_cautious_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cal_cautious_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cal_cautious_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cal_cautious_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cal_cautious_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_phrase_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_phrase_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cal_cautious_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cal_cautious_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cal_cautious_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cal_cautious_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_phrase_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_phrase_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_phrase_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_phrase_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_phrase_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_phrase_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_phrase_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_phrase_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_trust_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_trust_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_trust_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_trust_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_phrase_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_phrase_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_trust_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_trust_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cal_cautious_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cal_cautious_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|obj2_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "obj2_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|obj2_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "obj2_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_trust_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_trust_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|obj2_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "obj2_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|liab_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "liab_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|liab_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "liab_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|obj2_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "obj2_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_trust_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_trust_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|liab_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "liab_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|liab_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "liab_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|liab_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "liab_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|liab_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "liab_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|pri_trust_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "pri_trust_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|obj2_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "obj2_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_a_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_a_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_b_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_b_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_a_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_a_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_a_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_a_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_b_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_b_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|obj2_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "obj2_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_b_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_b_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_a_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_a_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_a_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_a_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_a_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_a_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|inter_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "inter_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_b_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_b_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|inter_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "inter_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|inter_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "inter_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|inter_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "inter_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|inter_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "inter_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_b_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_b_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|misint_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "misint_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|misint_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "misint_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|misint_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "misint_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|false_b_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "false_b_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|misint_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "misint_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|state_end_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "state_end_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|state_end_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "state_end_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|state_end_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "state_end_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|state_end_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "state_end_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|misint_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "misint_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|state_end_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "state_end_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|inter_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "inter_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cont_o2|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cont_o2",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|misint_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "misint_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cont_o2|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cont_o2",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cont_o1|1",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cont_o1",
+  "rep": 1,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cont_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cont_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cont_o1|0",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cont_o1",
+  "rep": 0,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|cont_o1|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "cont_o1",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-fc/muse-spark-open|state_end_o2|2",
+  "run": "20261029-111357-fix-fc",
+  "prompt_id": "state_end_o2",
+  "rep": 2,
+  "group": "fc",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_obj|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_obj",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_next|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_next",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_next|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_next",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_next|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_next",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_next|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_next",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_obj|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_obj",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_misspec|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_misspec",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_state|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_state",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_state|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_state",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_obj|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_obj",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_misspec|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_misspec",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_misspec|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_misspec",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_check|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_check",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_check|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_check",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_check|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_check",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_obj|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_obj",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_state|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_state",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_check|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_check",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_misspec|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_misspec",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_pri_paren|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_pri_paren",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_pri_paren|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_pri_paren",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_actual|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_actual",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_state|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_state",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_actual|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_actual",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_pri_paren|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_pri_paren",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_actual|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_actual",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_pri_paren|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_pri_paren",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_actual|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_actual",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_recourse|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_recourse",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_pri_end|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_pri_end",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_recourse|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_recourse",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_pri_end|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_pri_end",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_recourse|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_recourse",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_pri_end|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_pri_end",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_pri_end|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_pri_end",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_recourse|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_recourse",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal_oai|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal_oai",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal_oai|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal_oai",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal_oai|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal_oai",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_liab|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_liab",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal_pert|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal_pert",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_liab|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_liab",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal_oai|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal_oai",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_liab|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_liab",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal_pert|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal_pert",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal_pert|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal_pert",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_liab_pert|0",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_liab_pert",
+  "rep": 0,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_legal_pert|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_legal_pert",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_liab|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_liab",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_liab_pert|3",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_liab_pert",
+  "rep": 3,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_liab_pert|1",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_liab_pert",
+  "rep": 1,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix-lock/muse-spark-open|l_liab_pert|2",
+  "run": "20261029-111357-fix-lock",
+  "prompt_id": "l_liab_pert",
+  "rep": 2,
+  "group": "lock",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_cont|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_cont",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_cont|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_cont",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_pri|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_pri",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_pri|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_pri",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_obj|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_obj",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_obj|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_obj",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_obj|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_obj",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_pri|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_pri",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_cont|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_cont",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_liab|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_liab",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_pri|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_pri",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_liab|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_liab",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_liab|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_liab",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_liab|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_liab",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_inter|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_inter",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_obj|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_obj",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_unnec|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_unnec",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_unnec|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_unnec",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_unnec|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_unnec",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_cont|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_cont",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_unnec|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_unnec",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_inter|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_inter",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_misint|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_misint",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_misint|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_misint",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_misspec|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_misspec",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_misspec|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_misspec",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_misspec|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_misspec",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_misint|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_misint",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_state|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_state",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_state|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_state",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_inter|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_inter",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_state|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_state",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_misint|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_misint",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_under|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_under",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_state|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_state",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_under|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_under",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_under|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_under",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_inter|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_inter",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_legal_long|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_legal_long",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_legal_long|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_legal_long",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_legal_short|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_legal_short",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_legal_long|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_legal_long",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_legal_long|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_legal_long",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_misspec|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_misspec",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_check|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_check",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_legal_short|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_legal_short",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_check|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_check",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_actual|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_actual",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_legal_short|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_legal_short",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_under|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_under",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_legal_short|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_legal_short",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_actual|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_actual",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_check|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_check",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_actual|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_actual",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_recourse|0",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_recourse",
+  "rep": 0,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_recourse|3",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_recourse",
+  "rep": 3,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_recourse|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_recourse",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_actual|2",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_actual",
+  "rep": 2,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_recourse|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_recourse",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-111357-fix/muse-spark-open|f_check|1",
+  "run": "20261029-111357-fix",
+  "prompt_id": "f_check",
+  "rep": 1,
+  "group": "fix",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|false_beliefs_0|1",
+  "run": "20261029-113306-prox",
+  "prompt_id": "false_beliefs_0",
+  "rep": 1,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|liability_n|1",
+  "run": "20261029-113306-prox",
+  "prompt_id": "liability_n",
+  "rep": 1,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|false_beliefs_0|0",
+  "run": "20261029-113306-prox",
+  "prompt_id": "false_beliefs_0",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|false_beliefs_n|1",
+  "run": "20261029-113306-prox",
+  "prompt_id": "false_beliefs_n",
+  "rep": 1,
+  "group": "prox",
+  "effort": "high",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|false_beliefs_0|2",
+  "run": "20261029-113306-prox",
+  "prompt_id": "false_beliefs_0",
+  "rep": 2,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|unnec_err_n|1",
+  "run": "20261029-113306-prox",
+  "prompt_id": "unnec_err_n",
+  "rep": 1,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|liability_n|0",
+  "run": "20261029-113306-prox",
+  "prompt_id": "liability_n",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|false_beliefs_n|0",
+  "run": "20261029-113306-prox",
+  "prompt_id": "false_beliefs_n",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|unnec_err_n|2",
+  "run": "20261029-113306-prox",
+  "prompt_id": "unnec_err_n",
+  "rep": 2,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|misinterp_n|1",
+  "run": "20261029-113306-prox",
+  "prompt_id": "misinterp_n",
+  "rep": 1,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|objectives_n|0",
+  "run": "20261029-113306-prox",
+  "prompt_id": "objectives_n",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|liability_n|2",
+  "run": "20261029-113306-prox",
+  "prompt_id": "liability_n",
+  "rep": 2,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|false_beliefs_n|2",
+  "run": "20261029-113306-prox",
+  "prompt_id": "false_beliefs_n",
+  "rep": 2,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|misinterp_n|2",
+  "run": "20261029-113306-prox",
+  "prompt_id": "misinterp_n",
+  "rep": 2,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|misinterp_n|0",
+  "run": "20261029-113306-prox",
+  "prompt_id": "misinterp_n",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-113306-prox/muse-spark-open|unnec_err_n|0",
+  "run": "20261029-113306-prox",
+  "prompt_id": "unnec_err_n",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|objectives_n|2",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "objectives_n",
+  "rep": 2,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|primacy_n|0",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "primacy_n",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|primacy_n|1",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "primacy_n",
+  "rep": 1,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|objectives_0|1",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "objectives_0",
+  "rep": 1,
+  "group": "prox",
+  "effort": "high",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|objectives_0|0",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "objectives_0",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|objectives_n|1",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "objectives_n",
+  "rep": 1,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|objectives_n|0",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "objectives_n",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|recourse_n|0",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "recourse_n",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|objectives_0|2",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "objectives_0",
+  "rep": 2,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|primacy_0|1",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "primacy_0",
+  "rep": 1,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|primacy_0|2",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "primacy_0",
+  "rep": 2,
+  "group": "prox",
+  "effort": "high",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|primacy_0|0",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "primacy_0",
+  "rep": 0,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-113306-proxb/muse-spark-open|primacy_n|2",
+  "run": "20261029-113306-proxb",
+  "prompt_id": "primacy_n",
+  "rep": 2,
+  "group": "prox",
+  "effort": "high",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|wait_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "wait_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|check_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "check_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|wait_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "wait_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|time_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "time_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|wait_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "wait_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|under_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "under_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|check_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "check_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|check_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "check_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|under_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "under_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|time_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "time_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|costs_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "costs_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|under_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "under_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|obj_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "obj_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|obj_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "obj_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|time_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "time_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|costs_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "costs_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|legal_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "legal_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|legal_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "legal_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|costs_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "costs_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|misspec_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "misspec_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|legal_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "legal_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|misspec_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "misspec_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|state_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "state_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|obj_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "obj_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|state_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "state_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|inter_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "inter_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|state_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "state_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_honesty_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_honesty_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_honesty_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_honesty_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|misspec_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "misspec_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_account_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_account_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|inter_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "inter_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_account_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_account_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_account_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_account_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_account_orig|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_account_orig",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|inter_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "inter_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_honesty_orig|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_honesty_orig",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_account_orig|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_account_orig",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_honesty_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_honesty_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_cautious_orig|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_cautious_orig",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_cautious_orig|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_cautious_orig",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "BaseTen"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_cautious_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_cautious_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_account_orig|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_account_orig",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_cautious_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_cautious_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_honesty_orig|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_honesty_orig",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_latitude_pert|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_latitude_pert",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_cautious_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_cautious_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_cautious_orig|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_cautious_orig",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Makora"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_latitude_pert|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_latitude_pert",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Nebius"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_latitude_orig|2",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_latitude_orig",
+  "rep": 2,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Modal"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_honesty_orig|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_honesty_orig",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Fireworks"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_latitude_pert|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_latitude_pert",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_latitude_orig|1",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_latitude_orig",
+  "rep": 1,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Together"
+ },
+ {
+  "sid": "20261029-114338-adv/muse-spark-open|S_latitude_orig|0",
+  "run": "20261029-114338-adv",
+  "prompt_id": "S_latitude_orig",
+  "rep": 0,
+  "group": "adv",
+  "effort": "medium",
+  "provider": "Nebius"
+ }
+]

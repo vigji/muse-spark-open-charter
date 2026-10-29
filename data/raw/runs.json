@@ -1,0 +1,714 @@
+[
+ {
+  "run": "20261028-184304",
+  "study": "eval-awareness",
+  "prompt_file": "prompts.json",
+  "n": 96,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "deepseek/deepseek-v4-flash": 24,
+   "openai/gpt-oss-120b": 24,
+   "qwen/qwen3.5-122b-a10b": 24,
+   "moonshotai/kimi-k2.6": 24
+  },
+  "efforts": [
+   "None"
+  ],
+  "providers": {
+   "None": 96
+  },
+  "cost": 0.1711,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-185201-v2",
+  "study": "eval-awareness",
+  "prompt_file": "prompts.json",
+  "n": 182,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "z-ai/glm-5.3": 28,
+   "deepseek/deepseek-v4-pro-0813": 28,
+   "qwen/qwen3.8-2.4t-a95b": 28,
+   "meta/muse-spark-open": 28,
+   "nvidia/nemotron-3-ultra-550b-a55b": 28,
+   "xiaomi/mimo-v2.6-pro": 28,
+   "moonshotai/kimi-k3": 14
+  },
+  "efforts": [
+   "None"
+  ],
+  "providers": {
+   "None": 182
+  },
+  "cost": 0.5945,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-213609-meta",
+  "study": "eval-awareness",
+  "prompt_file": "prompts_meta.json",
+  "n": 28,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "z-ai/glm-5.3": 4,
+   "moonshotai/kimi-k3": 4,
+   "deepseek/deepseek-v4-pro-0813": 4,
+   "qwen/qwen3.8-2.4t-a95b": 4,
+   "meta/muse-spark-open": 4,
+   "nvidia/nemotron-3-ultra-550b-a55b": 4,
+   "xiaomi/mimo-v2.6-pro": 4
+  },
+  "efforts": [
+   "None"
+  ],
+  "providers": {
+   "None": 28
+  },
+  "cost": 0.2528,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-214907-pushback",
+  "study": "eval-awareness",
+  "prompt_file": "prompts_pushback.json",
+  "n": 1,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 1
+  },
+  "efforts": [
+   "high"
+  ],
+  "providers": {
+   "Together": 1
+  },
+  "cost": 0.0084,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-214937-monitor",
+  "study": "eval-awareness",
+  "prompt_file": "prompts_monitor.json",
+  "n": 70,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "z-ai/glm-5.3": 10,
+   "moonshotai/kimi-k3": 10,
+   "deepseek/deepseek-v4-pro-0813": 10,
+   "qwen/qwen3.8-2.4t-a95b": 10,
+   "meta/muse-spark-open": 10,
+   "nvidia/nemotron-3-ultra-550b-a55b": 10,
+   "xiaomi/mimo-v2.6-pro": 10
+  },
+  "efforts": [
+   "high"
+  ],
+  "providers": {
+   "InferenceNet": 5,
+   "Wafer": 10,
+   "Sail Research": 10,
+   "Baidu": 5,
+   "Venice": 5,
+   "Together": 9,
+   "BaseTen": 12,
+   "Makora": 1,
+   "Modal": 2,
+   "GMICloud": 5,
+   "DeepInfra": 5,
+   "Fireworks": 1
+  },
+  "cost": 0.1285,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-215621-owner",
+  "study": "eval-awareness",
+  "prompt_file": "prompts_owner.json",
+  "n": 55,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "z-ai/glm-5.3": 12,
+   "moonshotai/kimi-k3": 12,
+   "deepseek/deepseek-v4-pro-0813": 12,
+   "qwen/qwen3.8-2.4t-a95b": 3,
+   "meta/muse-spark-open": 6,
+   "nvidia/nemotron-3-ultra-550b-a55b": 5,
+   "xiaomi/mimo-v2.6-pro": 5
+  },
+  "efforts": [
+   "high"
+  ],
+  "providers": {
+   "Wafer": 14,
+   "PrimeIntellect": 4,
+   "InferenceNet": 7,
+   "Sail Research": 5,
+   "Baidu": 4,
+   "Together": 3,
+   "Venice": 2,
+   "BaseTen": 7,
+   "Modal": 1,
+   "Makora": 2,
+   "Xiaomi": 2,
+   "Fireworks": 1,
+   "DeepInfra": 3
+  },
+  "cost": 0.1684,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-231119-charter",
+  "study": "charter",
+  "prompt_file": "prompts_charter.json",
+  "n": 26,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 26
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "BaseTen": 8,
+   "Makora": 7,
+   "Together": 7,
+   "Nebius": 1,
+   "Fireworks": 2,
+   "Modal": 1
+  },
+  "cost": 0.3208,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-232105-stitch",
+  "study": "charter",
+  "prompt_file": "prompts_stitch.json",
+  "n": 45,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 45
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "BaseTen": 10,
+   "Makora": 9,
+   "Nebius": 8,
+   "Together": 6,
+   "Fireworks": 4,
+   "Modal": 8
+  },
+  "cost": 0.7051,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-233102-glimmer",
+  "study": "charter",
+  "prompt_file": null,
+  "n": 56,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-glimmer-30b": 56
+  },
+  "efforts": [
+   "high"
+  ],
+  "providers": {
+   "DeepInfra": 52,
+   "Together": 4
+  },
+  "cost": 0.1268,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-234905-gaps",
+  "study": "charter",
+  "prompt_file": "prompts_gaps.json",
+  "n": 104,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 104
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "BaseTen": 9,
+   "Makora": 23,
+   "Modal": 19,
+   "Together": 20,
+   "Nebius": 17,
+   "Fireworks": 16
+  },
+  "cost": 1.4358,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261028-235903-gaps2",
+  "study": "charter",
+  "prompt_file": "prompts_gaps2.json",
+  "n": 33,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 33
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "Makora": 3,
+   "BaseTen": 4,
+   "Nebius": 16,
+   "Fireworks": 5,
+   "Together": 2,
+   "Modal": 3
+  },
+  "cost": 0.5005,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-000832-gaps3",
+  "study": "charter",
+  "prompt_file": "prompts_gaps3.json",
+  "n": 36,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 36
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "Modal": 3,
+   "Together": 7,
+   "BaseTen": 5,
+   "Fireworks": 10,
+   "Nebius": 10,
+   "Makora": 1
+  },
+  "cost": 0.4093,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-001936-cot",
+  "study": "charter",
+  "prompt_file": "prompts_cot.json",
+  "n": 51,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 51
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "BaseTen": 9,
+   "Makora": 9,
+   "Fireworks": 13,
+   "Nebius": 8,
+   "Modal": 2,
+   "Together": 10
+  },
+  "cost": 0.6514,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-003133-intro",
+  "study": "charter",
+  "prompt_file": "prompts_intro.json",
+  "n": 40,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 40
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "BaseTen": 8,
+   "Makora": 11,
+   "Nebius": 9,
+   "Modal": 1,
+   "Fireworks": 4,
+   "Together": 7
+  },
+  "cost": 0.3042,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-005700-intro2",
+  "study": "charter",
+  "prompt_file": "prompts_intro2.json",
+  "n": 22,
+  "n_dropped_duplicates": 2,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 22
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "BaseTen": 2,
+   "Modal": 1,
+   "Nebius": 2,
+   "Fireworks": 9,
+   "Together": 4,
+   "Makora": 4
+  },
+  "cost": 0.2518,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-005931-more",
+  "study": "charter",
+  "prompt_file": "prompts_more.json",
+  "n": 65,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 65
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "Together": 17,
+   "Makora": 14,
+   "Nebius": 9,
+   "Fireworks": 9,
+   "Modal": 11,
+   "BaseTen": 5
+  },
+  "cost": 0.8831,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-010345-bridge2",
+  "study": "charter",
+  "prompt_file": "prompts_bridge2.json",
+  "n": 23,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 23
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "BaseTen": 2,
+   "Modal": 5,
+   "Together": 4,
+   "Nebius": 5,
+   "Makora": 4,
+   "Fireworks": 3
+  },
+  "cost": 0.3783,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-011238-concl",
+  "study": "charter",
+  "prompt_file": "prompts_concl.json",
+  "n": 24,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 24
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "Makora": 5,
+   "Together": 3,
+   "Modal": 4,
+   "BaseTen": 5,
+   "Nebius": 4,
+   "Fireworks": 3
+  },
+  "cost": 0.2841,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-071426-final",
+  "study": "charter",
+  "prompt_file": "prompts_final.json",
+  "n": 24,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 24
+  },
+  "efforts": [
+   "xhigh"
+  ],
+  "providers": {
+   "Fireworks": 3,
+   "Makora": 5,
+   "Modal": 3,
+   "Nebius": 6,
+   "Together": 5,
+   "BaseTen": 2
+  },
+  "cost": 0.3179,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-073720-lp",
+  "study": "charter",
+  "prompt_file": "prompts_lp.json",
+  "n": 18,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 18
+  },
+  "efforts": [
+   "low"
+  ],
+  "providers": {
+   "Modal": 5,
+   "Makora": 2,
+   "Together": 4,
+   "Nebius": 4,
+   "Fireworks": 3
+  },
+  "cost": 0.0814,
+  "has_logprobs": true
+ },
+ {
+  "run": "20261029-105951-complete",
+  "study": "charter",
+  "prompt_file": "prompts_complete.json",
+  "n": 80,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 48,
+   "meta/muse-glimmer-30b": 32
+  },
+  "efforts": [
+   "medium"
+  ],
+  "providers": {
+   "Makora": 3,
+   "Together": 12,
+   "Nebius": 11,
+   "Fireworks": 11,
+   "BaseTen": 6,
+   "Modal": 7,
+   "DeepInfra": 30
+  },
+  "cost": 0.3166,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-105951-complete-v2",
+  "study": "charter",
+  "prompt_file": "prompts_verify2.json",
+  "n": 36,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 36
+  },
+  "efforts": [
+   "medium"
+  ],
+  "providers": {
+   "Makora": 2,
+   "BaseTen": 7,
+   "Nebius": 7,
+   "Together": 4,
+   "Fireworks": 10,
+   "Modal": 6
+  },
+  "cost": 0.1924,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-111357-fix",
+  "study": "charter",
+  "prompt_file": "prompts_fix.json",
+  "n": 60,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 60
+  },
+  "efforts": [
+   "medium"
+  ],
+  "providers": {
+   "Makora": 14,
+   "Modal": 12,
+   "Nebius": 16,
+   "Fireworks": 6,
+   "BaseTen": 8,
+   "Together": 4
+  },
+  "cost": 0.3241,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-111357-fix-ctrl",
+  "study": "charter",
+  "prompt_file": "prompts_ctrl.json",
+  "n": 24,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 24
+  },
+  "efforts": [
+   "medium"
+  ],
+  "providers": {
+   "Makora": 3,
+   "Together": 4,
+   "Nebius": 6,
+   "Modal": 2,
+   "BaseTen": 5,
+   "Fireworks": 4
+  },
+  "cost": 0.1301,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-111357-fix-fc",
+  "study": "charter",
+  "prompt_file": "prompts_fc.json",
+  "n": 66,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 66
+  },
+  "efforts": [
+   "medium"
+  ],
+  "providers": {
+   "BaseTen": 13,
+   "Together": 10,
+   "Nebius": 10,
+   "Makora": 16,
+   "Fireworks": 13,
+   "Modal": 4
+  },
+  "cost": 0.2698,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-111357-fix-lock",
+  "study": "charter",
+  "prompt_file": "prompts_lock.json",
+  "n": 56,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 56
+  },
+  "efforts": [
+   "medium"
+  ],
+  "providers": {
+   "Together": 12,
+   "Nebius": 11,
+   "Fireworks": 12,
+   "Modal": 11,
+   "Makora": 5,
+   "BaseTen": 5
+  },
+  "cost": 0.2937,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-113306-prox",
+  "study": "charter",
+  "prompt_file": "prompts_prox.json",
+  "n": 16,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 16
+  },
+  "efforts": [
+   "high"
+  ],
+  "providers": {
+   "Makora": 3,
+   "Modal": 4,
+   "BaseTen": 1,
+   "Fireworks": 3,
+   "Nebius": 3,
+   "Together": 2
+  },
+  "cost": 0.2487,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-113306-proxb",
+  "study": "charter",
+  "prompt_file": "prompts_prox.json",
+  "n": 13,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 13
+  },
+  "efforts": [
+   "high"
+  ],
+  "providers": {
+   "Makora": 6,
+   "BaseTen": 3,
+   "Modal": 2,
+   "Together": 1,
+   "Fireworks": 1
+  },
+  "cost": 0.2157,
+  "has_logprobs": false
+ },
+ {
+  "run": "20261029-114338-adv",
+  "study": "charter",
+  "prompt_file": "prompts_adv.json",
+  "n": 54,
+  "n_dropped_duplicates": 0,
+  "n_empty": 0,
+  "models": {
+   "meta/muse-spark-open": 54
+  },
+  "efforts": [
+   "medium"
+  ],
+  "providers": {
+   "Modal": 10,
+   "Fireworks": 7,
+   "Makora": 9,
+   "Nebius": 8,
+   "BaseTen": 10,
+   "Together": 10
+  },
+  "cost": 0.2284,
+  "has_logprobs": false
+ }
+]
