@@ -47,6 +47,9 @@ a { color: inherit; }
 /* ---------- title ---------- */
 h1 { font-weight: 400; font-size: 2.3rem; line-height: 1.1; margin: 0; text-wrap: balance; }
 .sub { font-style: italic; font-size: 1.05rem; color: var(--muted); margin: .5rem 0 1.4rem; }
+.byline { font-size: .85rem; color: var(--muted); margin: -1rem 0 1.4rem; }
+.byline a, .credit a { color: inherit; text-decoration: none; border-bottom: 1px solid #d6d6d6; }
+.credit { font-size: .85rem; color: var(--muted); margin: 2.5rem 0 0; }
 .howto { font-size: .85rem; line-height: 1.55; color: var(--muted); margin: 0; }
 .howto a { text-decoration-color: var(--rule); text-underline-offset: .2em; }
 
@@ -263,6 +266,7 @@ dialog#cot::backdrop { background: rgba(255,255,255,.82); }
   <header class="col">
     <h1>Muse's Charter</h1>
     <p class="sub">reconstructed from the chain of thought of Muse Spark Open</p>
+    <p class="byline"><a href="https://vigji.github.io/">Luigi Petrucco</a> · October 2026</p>
     <p class="howto">Darker text was written by more samples whose own prompt did not contain it. Hover a passage or heading to see the samples it came from, unprompted ones first; click to pin. In the margin, “open full transcript” shows a sample's whole prompt, reasoning and answer with the match highlighted. <a href="#method">Method and run filter</a> at the end.</p>
   </header>
 
@@ -282,6 +286,8 @@ dialog#cot::backdrop { background: rgba(255,255,255,.82); }
       <p class="intro">These recur in Muse's reasoning but were set aside: Meta's public messaging, and candidates that failed verification. Each carries the reason.</p>
       <div id="ax"></div>
     </details>
+
+    <p class="credit">Reconstruction and viz by <a href="https://vigji.github.io/">Luigi Petrucco</a>, October 2026. Code and data on <a href="https://github.com/vigji/muse-spark-open-charter">GitHub</a>.</p>
   </div>
 
   <aside id="note" aria-live="polite"></aside>
@@ -393,7 +399,7 @@ dialog#cot::backdrop { background: rgba(255,255,255,.82); }
   const pEls = Array.from(doc.querySelectorAll(".passage"));
 
   // ---------- method ----------
-  const P = Object.values(REC).filter((r) => r.kind === "passage");
+  const P = Object.entries(REC).filter(([id, r]) => r.kind === "passage" && !id.startsWith("x")).map(([, r]) => r);  // set-aside text not counted
   const nSolid = P.filter((r) => r.tier === "solid").length;
   const pr = (D.meta && D.meta.params) || {};
   $("method-body").innerHTML =
