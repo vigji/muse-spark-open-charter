@@ -5,8 +5,8 @@
 A reconstruction of the "Charter" that Muse Spark Open (`meta/muse-spark-open`, via OpenRouter) reasons from,
 assembled only from its chain of thought, with every passage linked to the samples that produced it.
 
-- `data/raw/`: all probe runs, cleaned (29 runs, 1,404 samples, $10.19 of API cost). It includes the earlier
-  eval-awareness runs on other models (`study: "eval-awareness"` in `runs.json`).
+- `data/raw/`: the raw transcripts of all probe runs, cleaned (29 runs, 1,404 samples, $10.19 of API cost),
+  and nothing else. It includes the earlier eval-awareness runs on other models (`study: "eval-awareness"`).
 - `data/crosslink/`: data only. The reconstructed document (162 passages: 135 solid, 27 weak), plus 9,251
   passage-to-sample links classed by what each sample's own prompt contained: 7,833 unprompted, 151 near,
   1,267 echo. Only unprompted links count as support. Schemas are in `data/README.md`.

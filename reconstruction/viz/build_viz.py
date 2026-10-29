@@ -20,7 +20,6 @@ CLS = {"unprompted": 0, "near": 1, "echo": 2}
 doc = json.load(open(XL / "document.json"))
 links = json.load(open(XL / "links.json"))
 samples = {s["sid"]: s for s in json.load(open(XL / "samples.json"))}
-manifest = {m["run"]: m for m in json.load(open(RAW / "runs.json"))}
 
 by_target = defaultdict(list)
 for l in links:
