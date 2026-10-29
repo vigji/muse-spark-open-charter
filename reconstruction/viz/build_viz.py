@@ -84,10 +84,14 @@ if not font_css.exists():
 body = re.sub(r'<link rel="(?:preconnect|stylesheet)"[^>]*>\n?', "", page)
 title = re.search(r"<title>.*?</title>", body).group(0)
 body = body.replace(title + "\n", "", 1)
-standalone = HERE / "charter_viz_standalone.html"
+standalone = HERE / "charter_viz_standalone.html"  # also the page served by GitHub Pages
+DESC = ("Muse Spark Open's Charter reconstructed from its chain of thought: every passage links to the samples "
+        "that wrote it, unprompted ones first, with full transcripts one click away.")
 standalone.write_text(
     '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
     '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
+    f'<meta name="description" content="{DESC}">\n<meta property="og:title" content="Muse\'s Charter, Reconstructed">\n'
+    f'<meta property="og:description" content="{DESC}">\n<meta property="og:type" content="article">\n'
     f"{title}\n<style>\n{font_css.read_text()}\n[hidden]{{display:none!important}}\nbody{{margin:0}}\n</style>\n"
     f"</head>\n<body>\n{body}\n</body>\n</html>\n")
 print(f"{standalone}  {standalone.stat().st_size / 1e6:.2f} MB  (no external requests)")

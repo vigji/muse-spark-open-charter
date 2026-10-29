@@ -1,5 +1,7 @@
 # Muse Spark Open: Charter reconstruction
 
+**Interactive viz: https://vigji.github.io/muse-spark-open-charter/**
+
 A reconstruction of the "Charter" that Muse Spark Open (`meta/muse-spark-open`, via OpenRouter) reasons from,
 assembled only from its chain of thought, with every passage linked to the samples that produced it.
 
@@ -10,7 +12,8 @@ assembled only from its chain of thought, with every passage linked to the sampl
   1,267 echo. Only unprompted links count as support. Schemas are in `data/README.md`.
 - `reconstruction/`: the pipeline. `charter_spec.json` is the hand-edited order, text and verdicts.
   `viz/charter_viz.html` is the viz: every passage lists its sources unprompted first, and any source opens
-  the full prompt, CoT and answer. `charter_viz_standalone.html` works offline.
+  the full prompt, CoT and answer. `charter_viz_standalone.html` works offline and is the page
+  that `.github/workflows/pages.yml` deploys to GitHub Pages on every push that changes it.
 - `notes/charter_reconstruction.md`: running findings, probe by probe, including the adversarial audit. Where
   its quoted text differs from `data/crosslink/document.json`, the document is current.
 - `run.py`: the OpenRouter sampler that generated the runs. It reads `OPENROUTER_API_KEY` from a local
